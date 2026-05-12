@@ -147,8 +147,6 @@ Pipelines outlive project timelines. Build systems assuming:
 
 A good analytics engine minimizes the cost of future change.
 
----
-
 ## 2. Data Transformations
 
 Transformations are where raw healthcare data becomes analytically trustworthy.
@@ -202,8 +200,6 @@ If a transformation cannot be inspected, it cannot be trusted.
 
 Transformation logic should be deterministic wherever possible.
 The same input should produce the same output regardless of execution timing, partition layout, or retry behavior. Avoid nondeterministic ordering and hidden dependency on execution state.
-
----
 
 ## 3. Joins
 
@@ -268,8 +264,6 @@ Anti-joins, reconciliation joins, and exception joins are often more valuable op
 * orphaned records,
 * and source drift.
 
----
-
 ## 4. Cartesian Logic and Sets
 
 Cartesian operations are dangerous when accidental and powerful when intentional.
@@ -319,8 +313,6 @@ Many analytics failures are not incorrect records. They are missing records. Set
 
 A strong engineer thinks in population movement, not merely row manipulation.
 
----
-
 ## 5. Medallion Transformation Flow
 
 The Medallion Architecture is not just storage organization.
@@ -366,8 +358,6 @@ Every Gold output should be traceable back through:
 * and transformation lineage.
 
 If lineage breaks, trust breaks.
-
----
 
 ## 6. Self-Healing Pipelines
 
@@ -420,8 +410,6 @@ Late-arriving healthcare records are common. Pipelines should define:
 Resilience without auditability is dangerous.
 A pipeline that heals itself while hiding what changed becomes operationally untrustworthy.
 
----
-
 ## 7. Silver Layer Maintenance
 
 The Silver layer is where trust is engineered.
@@ -470,8 +458,6 @@ Keep logic readable and testable.
 Silver pipelines become long-lived enterprise infrastructure. If transformation logic becomes opaque, operational trust decays over time.
 
 A strong Silver layer behaves less like a data cleaning script and more like a governed reconciliation engine for healthcare identity and organizational truth.
-
-## How to Think
 
 ## How to Think
 
@@ -597,8 +583,6 @@ Use this mental sequence every time:
 7. Can the result be explained, replayed, and trusted?
 
 That is the difference between making something that merely works and making something that belongs in an enterprise environment.
-
-## Conversational Style
 
 ## Conversational Style
 
