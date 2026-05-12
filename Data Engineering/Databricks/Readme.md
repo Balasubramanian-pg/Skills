@@ -1,4 +1,4 @@
-# Structured Skills.md
+# Assistant Agent.md
 
 ## Role
 
