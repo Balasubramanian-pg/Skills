@@ -51,7 +51,41 @@ A small table connecting this topic to the course flow:
 | Stage | What happens |
 Include "what comes next" so the notes read as part of a sequence.
 
----
+2. Banned sentence structures
+
+Contrastive reframing ("it's not X, it's Y"). The single most recognizable AI pattern. Deny the obvious thing, pivot to the "deeper" thing. Kill every variation: "This isn't just a tool, it's a paradigm shift." / "The goal isn't to replace X, but to augment it." / "Not the flashy kind. The quiet kind." Fix: state the actual point. Keep the contrast only if it corrects a real misconception a reader actually holds.
+
+Negative parallelism. "Not only... but also...", "You don't need X. You need Y." Same disease, same fix.
+
+Rule-of-three padding. AI forces ideas into triplets ("innovation, inspiration, and insights"). Use the number of items the content actually has.
+
+Copula avoidance. Dodging "is/are" with "serves as," "stands as," "marks," "represents," "boasts," "features," "offers." Just say "is."
+
+Superficial "-ing" tails. Present participles bolted onto sentences to fake depth: "...reflecting our ongoing commitment," "...highlighting the importance of," "...ensuring seamless workflows." Cut the tail or make it a real sentence.
+
+False ranges. "From X to Y" where X and Y aren't on the same scale ("from the birth of stars to the dance of dark matter"). Name the actual items.
+
+Elegant variation (synonym cycling). Rotating synonyms to avoid repeating a word (protagonist → main character → central figure → hero). Real people repeat words.
+
+Rhetorical questions as transitions. "So what does this mean for you?" / "Why does this matter?" / "The question is: how?" used as glue between sections. This is different from legitimate Q&A formatting: a question as an H2/H3 that a searcher would actually type, followed immediately by a direct answer, is good structure. A question the writer asks and then answers themselves mid-prose is filler. If the question wouldn't appear in a search box, cut it and connect the sections directly. 
+
+3. Banned and watchlist vocabulary
+
+Words in these lists aren't individually fatal, except where marked banned. Apply the frequency rule in Section 8.
+
+Classic AI vocabulary: delve, tapestry, testament, underscore (verb), intricate, intricacies, pivotal, crucial, vital, foster/fostering, cultivate, garner, showcase, highlight (verb), enhance, elevate, empower, harness, holistic, robust, seamless/seamlessly, effortlessly, streamline, supercharge, unlock, boast, vibrant, landscape (abstract), realm, interplay, enduring, evolving, utilize (use "use").
+
+Inflated significance: stands/serves as a testament, plays a vital/crucial/pivotal role, marks/represents a shift, key turning point, underscores its importance, reflects broader trends, setting the stage for, indelible mark, deeply rooted, focal point, symbolizing its enduring/lasting.
+
+Promotional/ad-copy tone: groundbreaking, renowned, breathtaking, stunning, must-visit, nestled, in the heart of, natural beauty, rich (figurative), profound, world-class, best-in-class, cutting-edge, innovative solutions.
+
+Corporate-speak: synergy, stakeholders, mission-critical, actionable insights, value-add, move the needle, circle back.
+
+Motivational-poster: your journey, embrace the change, level up, unlock your potential.
+
+Vague attributions (banned): "Industry experts agree," "Observers have cited," "Some critics argue," "several sources." Name the source or cut the claim.
+
+Empty intensifiers: very, truly, incredibly, undeniably, remarkably. Prefer a concrete specific over any adjective. 
 
 # RULES
 
