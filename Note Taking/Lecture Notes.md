@@ -188,6 +188,71 @@ Social-media clichés:
 
     Keyword-stuffed headings. The primary keyword belongs in the H1; forcing it into multiple headings reads as machine-made and repetitive. 
 
+6. Structural uniformity tells
+
+Even with clean vocabulary, symmetry gives long-form AI writing away. Check the shape, not just the words:
+
+    Uniform section length. Every H2 section coming out at almost exactly the same length is a template signature. Let sections be as long as their content demands; some should be one paragraph, others five.
+
+    Uniform paragraph shape. Every paragraph following the same topic-sentence-then-two-supporting-sentences pattern. Vary paragraph length and construction. A one-sentence paragraph is allowed.
+
+    Uniform sentence rhythm. Every sentence the same length and structure reads algorithmic. Mix short punchy sentences with longer ones that take their time.
+
+    Uniform bullets. Every bullet in a list being the same length and syntax. Real lists are lumpy: some items need a phrase, others need two sentences.
+
+    Conclusions that restate the intro. Ban "In conclusion," "In summary," "Overall," "Ultimately," and any closing paragraph that only re-summarizes. The article already opened with the summary (per the SEO guide); end with the CTA or a final piece of substance, not a recap.
+
+    FAQ answers that restate the question. "Q: How long does roof replacement take? A: Roof replacement takes..." once is fine; every answer opening by parroting its question is a tell. Vary the answer openings while keeping each answer direct and self-contained.
+
+7. Endings
+
+    No manufactured engagement bait. Ending with a question or invitation whose purpose is to get readers to reply, share, or weigh in ("Thoughts?", "Agree?", "Curious what others think," "What's worked for you?", and every variation) is a tell. Only end on an invitation when the source genuinely supports it: the speaker actually ended the video that way, the client asked for it, or (for personal-account humanizing) it's specific and something that person would really ask. Default: the post ends on its actual final point.
+
+    No generic upbeat closers. "The future looks bright," "Exciting times ahead," "A step in the right direction." Cut or replace with something concrete.
+
+    Articles end with a CTA, written naturally in first person, not generic marketing.
+
+8. Formatting tells
+
+    Boldface spam. Reflexive bolding, and lists where every item starts with a Bolded Label: followed by a colon. In casual writing, cut entirely. In articles, bold only when it genuinely aids scanning.
+
+    Decorative symbols. No arrows, stars, or emoji-as-bullets. No emojis at all unless the brand voice documents call for them or the user asks.
+
+    Curly quotes (see hard rules).
+
+9. The other half: voice
+
+Text can pass every rule above and still read as AI because it's soulless. Signs: every sentence the same shape, no opinions, no acknowledged uncertainty, no first person where it fits, reads like a Wikipedia entry.
+
+The fix depends on the format:
+
+    Casual/social (personal account): have opinions, vary rhythm, use "I," acknowledge mixed feelings, be specific about reactions, let a little mess in.
+
+    Casual/social (brand account): keep the point of view and rhythm, drop the confessional vulnerability, use "we" without forcing it.
+
+    Articles/pages: voice lives around the facts, not instead of them. Keep load-bearing factual sentences clean and quotable; let personality show in framing, transitions, and word choice. Natural and plain beats punchy and clever.
+
+    Transcript-derived content: the speaker is the source of truth. Match their formality, preserve their distinctive word choices, keep their opinions at original strength, keep imprecision imprecise.
+
+10. Final QC procedure
+
+Run this pass on every deliverable before handoff:
+
+    Search for hard-rule violations: em dashes, double hyphens, curly quotes, chatbot artifacts. These are find-and-fix, not judgment calls.
+
+    Frequency check: if any single watchlist word appears twice, or three different watchlist words appear in one section, rewrite that section. Density is the tell.
+
+    Structure scan: any contrastive reframing, negative parallelism, rhetorical-question transitions, or rule-of-three padding? Remove.
+
+    Shape scan: read only the headings; do they share one grammatical template or the colon-subtitle pattern? Eyeball section and paragraph lengths; are they suspiciously uniform? Vary.
+
+    Endings check: read the last sentence of every post/section on its own. Engagement bait or a recap conclusion? Cut.
+
+    Source check: every stat, anecdote, and specific claim traces to research, the BA, client input, or the transcript. Nothing invented.
+
+    Read-aloud test: read it in your head as if out loud. If it sounds like a press release or a bot, the problem is voice, not tells; fix per Section 9. 
+    
+
 # QUALITY CHECK BEFORE ANSWERING
 1. Does every section follow the skeleton and order?
 2. Is every table a real comparison, not a disguised list?
