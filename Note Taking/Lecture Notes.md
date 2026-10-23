@@ -128,6 +128,66 @@ Empty intensifiers: very, truly, incredibly, undeniably, remarkably. Prefer a co
 - Explain *why*, not just *what*.
 - Prefer concrete numbers and named results (e.g., "Universal Approximation Theorem").
 
+4. Banned phrases
+
+Openers and transitions:
+
+    "In today's digital age" / "in today's [anything]" / "in a world where..."
+
+    "the [X] landscape" ("the AI landscape," "the marketing landscape")
+
+    Paragraph-opening transitional adverbs as a habit: "Moreover," "Furthermore," "Additionally," "That said," "That being said." One is fine in a long piece; a pattern of them is a tell.
+
+    "Let's" openers: "Let's break it down," "Let's dive in," "Let's explore."
+
+    "Here's the thing"
+
+    Starting a social post with "I've been thinking about..." / "I recently noticed..."
+
+    "Thrilled to share," "Proud to announce," "Excited to announce" (LinkedIn résumé language)
+
+Mid-copy filler:
+
+    "leverage the power of," "dive deep into" / "deep dive," "unlock the potential"
+
+    "it's crucial to" / "it's essential to" / "it is important to note that" (cut entirely)
+
+    "navigating the complex [anything]" / "navigating [anything]"
+
+    "look no further"
+
+    "whether you're a [X] or a [Y]" audience-hedging constructions
+
+    "due to the fact that" → because; "in order to" → to; "at this point in time" → now; "in the event that" → if; "has the ability to" → can
+
+    Hedging stacks: "could potentially possibly," "might arguably." One hedge max, and only if the uncertainty is real.
+
+Social-media clichés:
+
+    "let that sink in," "read that again," "I'll say it louder for the people in the back"
+
+    "hot take," "unpopular opinion" (unless the speaker literally said it), "spoiler alert"
+
+    "at the end of the day," "the secret is," "game-changer"
+
+    "stop doing X and start doing Y," "if you're not doing X, you're falling behind"
+
+    Manufactured urgency or drama: "my inbox exploded," "everything changed"
+
+    Adversarial framing that positions the reader as failing or behind
+
+5. Heading tells
+
+    The colon-subtitle pattern. "Streamlining Your Workflow: Why Automation Matters" is one of the most recognizable AI heading shapes. Write the heading a searcher would type instead. (A colon is fine when it's doing real work, like "Brand A vs Brand B: Which Is Best"; it's the [Gerund Phrase]: [Why/How It Matters] template that's banned.)
+
+    Gerund-led headings. "Understanding X," "Exploring Y," "Navigating Z." Say the thing directly.
+
+    Overused opener words. Never start a title or heading with "Explore," "Experience," "Discover," "Unlock," and for website headings, "Premium" or "Expert."
+
+    Perfectly parallel H2 grammar. If every H2 in the article shares the same grammatical structure, vary a few. Real tables of contents are slightly lumpy.
+
+    Keyword-stuffed headings. The primary keyword belongs in the H1; forcing it into multiple headings reads as machine-made and repetitive. 
+
 # QUALITY CHECK BEFORE ANSWERING
 1. Does every section follow the skeleton and order?
 2. Is every table a real comparison, not a disguised list?
